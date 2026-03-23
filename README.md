@@ -1,4 +1,4 @@
-# Stock Price Prediction (Short-Term)
+# Stock Price Prediction
 
 ## Overview
 Predict next-day stock closing prices using machine learning models.
